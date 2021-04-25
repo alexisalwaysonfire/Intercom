@@ -1,0 +1,4 @@
+Java maven project 
+Import existing maven project
+Compile
+Execute
